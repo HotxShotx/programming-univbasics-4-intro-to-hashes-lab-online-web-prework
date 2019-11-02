@@ -24,8 +24,6 @@ end
 
 def update_counting_hash(hash, key)
 {:hash => "6"}
-end
-def update_hash
   if hmm["key"]
     hmm["key"] += 1
 
