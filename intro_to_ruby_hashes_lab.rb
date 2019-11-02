@@ -3,16 +3,15 @@ def new_hash
 end
 
 def my_hash
-   {:washrag => "1"}
+   {washrag: "1"}
 end
 
 def pioneer
-  {:name => "Grace Hopper"}
+  {name:  "Grace Hopper"}
 end
 
 def id_generator
-  positive = {:id => "mental"}
-  id.object_id
+  {id: 4}
 end
 
 def my_hash_creator(key, value)
