@@ -3,11 +3,11 @@ def new_hash
 end
 
 def my_hash
-  rag = {:washrag => "1"}
+   {:washrag => "1"}
 end
 
 def pioneer
-  insect = {:name => "Grace Hopper"}
+  {:name => "Grace Hopper"}
 end
 
 def id_generator
