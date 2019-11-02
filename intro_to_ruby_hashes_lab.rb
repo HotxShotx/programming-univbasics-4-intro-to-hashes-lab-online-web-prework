@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-   {washrag: "1"}
+  { washrag: "1" }
 end
 
 def pioneer
@@ -15,8 +15,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  my_hash_creator = {:key => "5",
-                      :value => "6"  }
+  {:key => "5", :value => "6"  }
 end
 
 def read_from_hash(hash, key)
