@@ -23,7 +23,7 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
-hmm = {:hash => "6"}
+{:hash => "6"}
 end
 def update_hash
   if hmm["key"]
